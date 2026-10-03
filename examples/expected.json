@@ -1,0 +1,18 @@
+{
+  "coalitions": [
+    {
+      "balance": 80,
+      "count": 2,
+      "members": [
+        "a",
+        "b"
+      ],
+      "threshold": "0.6"
+    }
+  ],
+  "gini": "0.2",
+  "hhi": "0.38",
+  "holders": 3,
+  "supply": 100,
+  "top_holder_share": "0.5"
+}

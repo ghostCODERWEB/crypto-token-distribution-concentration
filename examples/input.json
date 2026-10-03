@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "id": "a",
+      "balance": 50
+    },
+    {
+      "id": "b",
+      "balance": 30
+    },
+    {
+      "id": "c",
+      "balance": 20
+    }
+  ],
+  "thresholds": [
+    "0.6"
+  ]
+}
